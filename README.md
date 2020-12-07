@@ -13,4 +13,5 @@ Scaling improvements
  - API documentation (i.e. swagger, openapi specs)
  - indexing in DB
  - test automation for API contracts
+ - javadocs
 
